@@ -1,0 +1,483 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="4320" height="14350" viewBox="0 0 4320 14350" role="img" aria-label="全功能泳道圖整合">
+  <rect x="0" y="0" width="4320" height="14350" fill="white" />
+  <rect x="0" y="0" width="4320" height="125" fill="#1d3c4c" />
+  <text x="2160.0" y="38.0" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="50" font-weight="700" fill="white">臺中市英語教育資源中心｜全功能與判斷整合泳道圖</text>
+  <text x="2160.0" y="158.74" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="27" font-weight="400" fill="#526c77">上方：五種帳號／系統角色　左側：依需求書排序的功能　承辦學校保留一般學校權限　綠＝通過／是　紅＝不通過／否　橘＝待確認</text>
+  <rect x="395" y="230" width="772" height="100" fill="#a36e90" />
+  <text x="781.0" y="263.6" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="30" font-weight="700" fill="white">訪客</text>
+  <rect x="1175" y="230" width="772" height="100" fill="#8667b3" />
+  <text x="1561.0" y="263.6" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="30" font-weight="700" fill="white">一般學校帳號</text>
+  <rect x="1955" y="230" width="772" height="100" fill="#bc881c" />
+  <text x="2341.0" y="263.6" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="30" font-weight="700" fill="white">承辦學校帳號</text>
+  <rect x="2735" y="230" width="772" height="100" fill="#397e9d" />
+  <text x="3121.0" y="263.6" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="30" font-weight="700" fill="white">系統管理員</text>
+  <rect x="3515" y="230" width="772" height="100" fill="#4f9b6c" />
+  <text x="3901.0" y="263.6" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="30" font-weight="700" fill="white">系統自動判斷</text>
+  <rect x="55" y="330" width="332" height="1242" fill="#1d3c4c" />
+  <text x="221.0" y="933.08" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="34" font-weight="700" fill="white">帳號及權限</text>
+  <rect x="395" y="330" width="772" height="1242" fill="#f8eef4" stroke="#cad9dd" stroke-width="2" />
+  <rect x="1175" y="330" width="772" height="1242" fill="#f1edfa" stroke="#cad9dd" stroke-width="2" />
+  <rect x="1955" y="330" width="772" height="1242" fill="#fff5dd" stroke="#cad9dd" stroke-width="2" />
+  <rect x="2735" y="330" width="772" height="1242" fill="#eaf4f8" stroke="#cad9dd" stroke-width="2" />
+  <rect x="3515" y="330" width="772" height="1242" fill="#eaf7ed" stroke="#cad9dd" stroke-width="2" />
+  <rect x="55" y="1580" width="332" height="1312" fill="#1d3c4c" />
+  <text x="221.0" y="2196.08" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="34" font-weight="700" fill="white">學校內容與網站呈</text>
+  <text x="221.0" y="2240.08" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="34" font-weight="700" fill="white">現</text>
+  <rect x="395" y="1580" width="772" height="1312" fill="#f8eef4" stroke="#cad9dd" stroke-width="2" />
+  <rect x="1175" y="1580" width="772" height="1312" fill="#f1edfa" stroke="#cad9dd" stroke-width="2" />
+  <rect x="1955" y="1580" width="772" height="1312" fill="#fff5dd" stroke="#cad9dd" stroke-width="2" />
+  <rect x="2735" y="1580" width="772" height="1312" fill="#eaf4f8" stroke="#cad9dd" stroke-width="2" />
+  <rect x="3515" y="1580" width="772" height="1312" fill="#eaf7ed" stroke="#cad9dd" stroke-width="2" />
+  <rect x="55" y="2900" width="332" height="1232" fill="#1d3c4c" />
+  <text x="221.0" y="3476.08" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="34" font-weight="700" fill="white">線上填報（調查表</text>
+  <text x="221.0" y="3520.08" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="34" font-weight="700" fill="white">）</text>
+  <rect x="395" y="2900" width="772" height="1232" fill="#f8eef4" stroke="#cad9dd" stroke-width="2" />
+  <rect x="1175" y="2900" width="772" height="1232" fill="#f1edfa" stroke="#cad9dd" stroke-width="2" />
+  <rect x="1955" y="2900" width="772" height="1232" fill="#fff5dd" stroke="#cad9dd" stroke-width="2" />
+  <rect x="2735" y="2900" width="772" height="1232" fill="#eaf4f8" stroke="#cad9dd" stroke-width="2" />
+  <rect x="3515" y="2900" width="772" height="1232" fill="#eaf7ed" stroke="#cad9dd" stroke-width="2" />
+  <rect x="55" y="4140" width="332" height="1382" fill="#1d3c4c" />
+  <text x="221.0" y="4791.08" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="34" font-weight="700" fill="white">教學資源與成果照</text>
+  <text x="221.0" y="4835.08" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="34" font-weight="700" fill="white">片上傳</text>
+  <rect x="395" y="4140" width="772" height="1382" fill="#f8eef4" stroke="#cad9dd" stroke-width="2" />
+  <rect x="1175" y="4140" width="772" height="1382" fill="#f1edfa" stroke="#cad9dd" stroke-width="2" />
+  <rect x="1955" y="4140" width="772" height="1382" fill="#fff5dd" stroke="#cad9dd" stroke-width="2" />
+  <rect x="2735" y="4140" width="772" height="1382" fill="#eaf4f8" stroke="#cad9dd" stroke-width="2" />
+  <rect x="3515" y="4140" width="772" height="1382" fill="#eaf7ed" stroke="#cad9dd" stroke-width="2" />
+  <rect x="55" y="5530" width="332" height="4772" fill="#1d3c4c" />
+  <text x="221.0" y="7832.08" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="34" font-weight="700" fill="white">競賽全流程</text>
+  <text x="221.0" y="7876.08" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="34" font-weight="700" fill="white">設定／報名／補件</text>
+  <text x="221.0" y="7920.08" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="34" font-weight="700" fill="white">／抽籤／成績／公</text>
+  <text x="221.0" y="7964.08" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="34" font-weight="700" fill="white">告</text>
+  <rect x="395" y="5530" width="772" height="4772" fill="#f8eef4" stroke="#cad9dd" stroke-width="2" />
+  <rect x="1175" y="5530" width="772" height="4772" fill="#f1edfa" stroke="#cad9dd" stroke-width="2" />
+  <rect x="1955" y="5530" width="772" height="4772" fill="#fff5dd" stroke="#cad9dd" stroke-width="2" />
+  <rect x="2735" y="5530" width="772" height="4772" fill="#eaf4f8" stroke="#cad9dd" stroke-width="2" />
+  <rect x="3515" y="5530" width="772" height="4772" fill="#eaf7ed" stroke="#cad9dd" stroke-width="2" />
+  <rect x="55" y="10310" width="332" height="2172" fill="#1d3c4c" />
+  <text x="221.0" y="11356.08" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="34" font-weight="700" fill="white">計畫填報、經費概</text>
+  <text x="221.0" y="11400.08" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="34" font-weight="700" fill="white">算與兩階段審查</text>
+  <rect x="395" y="10310" width="772" height="2172" fill="#f8eef4" stroke="#cad9dd" stroke-width="2" />
+  <rect x="1175" y="10310" width="772" height="2172" fill="#f1edfa" stroke="#cad9dd" stroke-width="2" />
+  <rect x="1955" y="10310" width="772" height="2172" fill="#fff5dd" stroke="#cad9dd" stroke-width="2" />
+  <rect x="2735" y="10310" width="772" height="2172" fill="#eaf4f8" stroke="#cad9dd" stroke-width="2" />
+  <rect x="3515" y="10310" width="772" height="2172" fill="#eaf7ed" stroke="#cad9dd" stroke-width="2" />
+  <rect x="55" y="12490" width="332" height="1692" fill="#1d3c4c" />
+  <text x="221.0" y="13274.08" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="34" font-weight="700" fill="white">營隊活動</text>
+  <text x="221.0" y="13318.08" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="34" font-weight="700" fill="white">免登入報名／名額</text>
+  <text x="221.0" y="13362.08" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="34" font-weight="700" fill="white">／匯出／結案</text>
+  <rect x="395" y="12490" width="772" height="1692" fill="#f8eef4" stroke="#cad9dd" stroke-width="2" />
+  <rect x="1175" y="12490" width="772" height="1692" fill="#f1edfa" stroke="#cad9dd" stroke-width="2" />
+  <rect x="1955" y="12490" width="772" height="1692" fill="#fff5dd" stroke="#cad9dd" stroke-width="2" />
+  <rect x="2735" y="12490" width="772" height="1692" fill="#eaf4f8" stroke="#cad9dd" stroke-width="2" />
+  <rect x="3515" y="12490" width="772" height="1692" fill="#eaf7ed" stroke="#cad9dd" stroke-width="2" />
+  <polyline points="3470.0,440.0 3905.0,440.0 3905.0,570.0" fill="none" stroke="#526c77" stroke-width="5" stroke-linejoin="round" stroke-dasharray="none" />
+  <polygon points="3905.0,570.0 3895.1,553.8 3914.9,553.8" fill="#526c77" />
+  <polyline points="1565.0,500.0 1565.0,625.0 3560.0,625.0" fill="none" stroke="#526c77" stroke-width="5" stroke-linejoin="round" stroke-dasharray="none" />
+  <polygon points="3560.0,625.0 3543.8,634.9 3543.8,615.1" fill="#526c77" />
+  <polyline points="3905.0,680.0 3905.0,750.0" fill="none" stroke="#526c77" stroke-width="5" stroke-linejoin="round" stroke-dasharray="none" />
+  <polygon points="3905.0,750.0 3895.1,733.8 3914.9,733.8" fill="#526c77" />
+  <polyline points="3905.0,900.0 3905.0,955.0 3125.0,955.0 3125.0,970.0" fill="none" stroke="#25874c" stroke-width="5" stroke-linejoin="round" stroke-dasharray="none" />
+  <polygon points="3125.0,970.0 3115.1,953.8 3134.9,953.8" fill="#25874c" />
+  <polyline points="3560.0,825.0 3560.0,940.0 1565.0,940.0 1565.0,970.0" fill="none" stroke="#d4433a" stroke-width="5" stroke-linejoin="round" stroke-dasharray="none" />
+  <polygon points="1565.0,970.0 1555.1,953.8 1574.9,953.8" fill="#d4433a" />
+  <polyline points="1565.0,1075.0 1565.0,1125.0 3905.0,1125.0 3905.0,1180.0" fill="none" stroke="#526c77" stroke-width="5" stroke-linejoin="round" stroke-dasharray="none" />
+  <polygon points="3905.0,1180.0 3895.1,1163.8 3914.9,1163.8" fill="#526c77" />
+  <polyline points="3470.0,1230.0 3515.0,1230.0 3560.0,1255.0" fill="none" stroke="#407b94" stroke-width="5" stroke-linejoin="round" stroke-dasharray="none" />
+  <polygon points="3560.0,1255.0 3541.0,1255.8 3550.7,1238.5" fill="#407b94" />
+  <polyline points="3905.0,1330.0 3905.0,1380.0 2345.0,1380.0 2345.0,1400.0" fill="none" stroke="#25874c" stroke-width="5" stroke-linejoin="round" stroke-dasharray="none" />
+  <polygon points="2345.0,1400.0 2335.1,1383.8 2354.9,1383.8" fill="#25874c" />
+  <polyline points="3560.0,1255.0 3560.0,1365.0 1565.0,1365.0 1565.0,1400.0" fill="none" stroke="#d4433a" stroke-width="5" stroke-linejoin="round" stroke-dasharray="none" />
+  <polygon points="1565.0,1400.0 1555.1,1383.8 1574.9,1383.8" fill="#d4433a" />
+  <polyline points="3125.0,1740.0 3125.0,1815.0" fill="none" stroke="#526c77" stroke-width="5" stroke-linejoin="round" stroke-dasharray="none" />
+  <polygon points="3125.0,1815.0 3115.1,1798.8 3134.9,1798.8" fill="#526c77" />
+  <polyline points="3125.0,1930.0 3125.0,2005.0" fill="none" stroke="#526c77" stroke-width="5" stroke-linejoin="round" stroke-dasharray="none" />
+  <polygon points="3125.0,2005.0 3115.1,1988.8 3134.9,1988.8" fill="#526c77" />
+  <polyline points="3125.0,2120.0 3125.0,2195.0" fill="none" stroke="#526c77" stroke-width="5" stroke-linejoin="round" stroke-dasharray="none" />
+  <polygon points="3125.0,2195.0 3115.1,2178.8 3134.9,2178.8" fill="#526c77" />
+  <polyline points="3125.0,2310.0 3125.0,2385.0" fill="none" stroke="#526c77" stroke-width="5" stroke-linejoin="round" stroke-dasharray="none" />
+  <polygon points="3125.0,2385.0 3115.1,2368.8 3134.9,2368.8" fill="#526c77" />
+  <polyline points="3125.0,2500.0 3125.0,2528.0 3905.0,2528.0 3905.0,2555.0" fill="none" stroke="#526c77" stroke-width="5" stroke-linejoin="round" stroke-dasharray="none" />
+  <polygon points="3905.0,2555.0 3895.1,2538.8 3914.9,2538.8" fill="#526c77" />
+  <polyline points="4250.0,2627.5 4250.0,2680.0 785.0,2680.0 785.0,2745.0" fill="none" stroke="#25874c" stroke-width="5" stroke-linejoin="round" stroke-dasharray="none" />
+  <polygon points="785.0,2745.0 775.1,2728.8 794.9,2728.8" fill="#25874c" />
+  <polyline points="3905.0,2700.0 3905.0,2745.0" fill="none" stroke="#d4433a" stroke-width="5" stroke-linejoin="round" stroke-dasharray="none" />
+  <polygon points="3905.0,2745.0 3895.1,2728.8 3914.9,2728.8" fill="#d4433a" />
+  <polyline points="3125.0,3065.0 3125.0,3090.0 3905.0,3090.0 3905.0,3130.0" fill="none" stroke="#526c77" stroke-width="5" stroke-linejoin="round" stroke-dasharray="none" />
+  <polygon points="3905.0,3130.0 3895.1,3113.8 3914.9,3113.8" fill="#526c77" />
+  <polyline points="3560.0,3202.5 3560.0,3320.0 1565.0,3320.0 1565.0,3355.0" fill="none" stroke="#25874c" stroke-width="5" stroke-linejoin="round" stroke-dasharray="none" />
+  <polygon points="1565.0,3355.0 1555.1,3338.8 1574.9,3338.8" fill="#25874c" />
+  <polyline points="4250.0,3202.5 4165.0,3310.0 3905.0,3355.0" fill="none" stroke="#d4433a" stroke-width="5" stroke-linejoin="round" stroke-dasharray="none" />
+  <polygon points="3905.0,3355.0 3919.3,3342.5 3922.7,3362.0" fill="#d4433a" />
+  <polyline points="1565.0,3470.0 1565.0,3672.0 3560.0,3672.5" fill="none" stroke="#526c77" stroke-width="5" stroke-linejoin="round" stroke-dasharray="none" />
+  <polygon points="3560.0,3672.5 3543.8,3682.4 3543.8,3662.6" fill="#526c77" />
+  <polyline points="3560.0,3672.5 3560.0,3850.0 3125.0,3850.0 3125.0,3900.0" fill="none" stroke="#25874c" stroke-width="5" stroke-linejoin="round" stroke-dasharray="none" />
+  <polygon points="3125.0,3900.0 3115.1,3883.8 3134.9,3883.8" fill="#25874c" />
+  <polyline points="3905.0,3745.0 3905.0,3900.0" fill="none" stroke="#d4433a" stroke-width="5" stroke-linejoin="round" stroke-dasharray="none" />
+  <polygon points="3905.0,3900.0 3895.1,3883.8 3914.9,3883.8" fill="#d4433a" />
+  <polyline points="3470.0,4245.0 1565.0,4410.0" fill="none" stroke="#526c77" stroke-width="5" stroke-linejoin="round" stroke-dasharray="none" />
+  <polygon points="1565.0,4410.0 1580.3,4398.7 1582.0,4418.5" fill="#526c77" />
+  <polyline points="1565.0,4525.0 1565.0,4707.0 3560.0,4707.5" fill="none" stroke="#526c77" stroke-width="5" stroke-linejoin="round" stroke-dasharray="none" />
+  <polygon points="3560.0,4707.5 3543.8,4717.4 3543.8,4697.6" fill="#526c77" />
+  <polyline points="3560.0,4707.5 3560.0,4850.0 1565.0,4850.0 1565.0,4890.0" fill="none" stroke="#d4433a" stroke-width="5" stroke-linejoin="round" stroke-dasharray="none" />
+  <polygon points="1565.0,4890.0 1555.1,4873.8 1574.9,4873.8" fill="#d4433a" />
+  <polyline points="3905.0,4780.0 3905.0,4890.0" fill="none" stroke="#25874c" stroke-width="5" stroke-linejoin="round" stroke-dasharray="none" />
+  <polygon points="3905.0,4890.0 3895.1,4873.8 3914.9,4873.8" fill="#25874c" />
+  <polyline points="3905.0,5005.0 3905.0,5125.0" fill="none" stroke="#526c77" stroke-width="5" stroke-linejoin="round" stroke-dasharray="none" />
+  <polygon points="3905.0,5125.0 3895.1,5108.8 3914.9,5108.8" fill="#526c77" />
+  <polyline points="4250.0,5197.5 4250.0,5240.0 785.0,5240.0 785.0,5355.0" fill="none" stroke="#25874c" stroke-width="5" stroke-linejoin="round" stroke-dasharray="none" />
+  <polygon points="785.0,5355.0 775.1,5338.8 794.9,5338.8" fill="#25874c" />
+  <polyline points="3905.0,5270.0 3905.0,5355.0" fill="none" stroke="#d4433a" stroke-width="5" stroke-linejoin="round" stroke-dasharray="none" />
+  <polygon points="3905.0,5355.0 3895.1,5338.8 3914.9,5338.8" fill="#d4433a" />
+  <polyline points="3560.0,5647.5 3560.0,5740.0 2345.0,5740.0 2345.0,5775.0" fill="none" stroke="#25874c" stroke-width="5" stroke-linejoin="round" stroke-dasharray="none" />
+  <polygon points="2345.0,5775.0 2335.1,5758.8 2354.9,5758.8" fill="#25874c" />
+  <polyline points="3905.0,5720.0 3905.0,5755.0 3125.0,5755.0 3125.0,5775.0" fill="none" stroke="#d4433a" stroke-width="5" stroke-linejoin="round" stroke-dasharray="none" />
+  <polygon points="3125.0,5775.0 3115.1,5758.8 3134.9,5758.8" fill="#d4433a" />
+  <polyline points="2345.0,5890.0 2345.0,5932.0 3125.0,5932.0 3125.0,5970.0" fill="none" stroke="#526c77" stroke-width="5" stroke-linejoin="round" stroke-dasharray="none" />
+  <polygon points="3125.0,5970.0 3115.1,5953.8 3134.9,5953.8" fill="#526c77" />
+  <polyline points="3125.0,6085.0 3125.0,6125.0 2345.0,6125.0 2345.0,6165.0" fill="none" stroke="#526c77" stroke-width="5" stroke-linejoin="round" stroke-dasharray="none" />
+  <polygon points="2345.0,6165.0 2335.1,6148.8 2354.9,6148.8" fill="#526c77" />
+  <polyline points="2345.0,6280.0 2345.0,6325.0 1565.0,6325.0 1565.0,6365.0" fill="none" stroke="#526c77" stroke-width="5" stroke-linejoin="round" stroke-dasharray="none" />
+  <polygon points="1565.0,6365.0 1555.1,6348.8 1574.9,6348.8" fill="#526c77" />
+  <polyline points="1565.0,6490.0 1565.0,6540.0 3905.0,6540.0 3905.0,6580.0" fill="none" stroke="#526c77" stroke-width="5" stroke-linejoin="round" stroke-dasharray="none" />
+  <polygon points="3905.0,6580.0 3895.1,6563.8 3914.9,6563.8" fill="#526c77" />
+  <polyline points="3905.0,6730.0 3905.0,6795.0" fill="none" stroke="#d4433a" stroke-width="5" stroke-linejoin="round" stroke-dasharray="none" />
+  <polygon points="3905.0,6795.0 3895.1,6778.8 3914.9,6778.8" fill="#d4433a" />
+  <polyline points="3560.0,6655.0 3520.0,6740.0 3520.0,6940.0 3905.0,6940.0 3905.0,6980.0" fill="none" stroke="#25874c" stroke-width="5" stroke-linejoin="round" stroke-dasharray="none" />
+  <polygon points="3905.0,6980.0 3895.1,6963.8 3914.9,6963.8" fill="#25874c" />
+  <polyline points="3905.0,7100.0 3905.0,7140.0 1565.0,7140.0 1565.0,7175.0" fill="none" stroke="#526c77" stroke-width="5" stroke-linejoin="round" stroke-dasharray="none" />
+  <polygon points="1565.0,7175.0 1555.1,7158.8 1574.9,7158.8" fill="#526c77" />
+  <polyline points="1565.0,7290.0 1565.0,7335.0 2345.0,7335.0 2345.0,7370.0" fill="none" stroke="#526c77" stroke-width="5" stroke-linejoin="round" stroke-dasharray="none" />
+  <polygon points="2345.0,7370.0 2335.1,7353.8 2354.9,7353.8" fill="#526c77" />
+  <polyline points="2345.0,7485.0 2345.0,7535.0 3905.0,7535.0 3905.0,7570.0" fill="none" stroke="#526c77" stroke-width="5" stroke-linejoin="round" stroke-dasharray="none" />
+  <polygon points="3905.0,7570.0 3895.1,7553.8 3914.9,7553.8" fill="#526c77" />
+  <polyline points="3560.0,7652.5 3560.0,7780.0 2345.0,7780.0 2345.0,7825.0" fill="none" stroke="#25874c" stroke-width="5" stroke-linejoin="round" stroke-dasharray="none" />
+  <polygon points="2345.0,7825.0 2335.1,7808.8 2354.9,7808.8" fill="#25874c" />
+  <polyline points="3905.0,7735.0 3905.0,7825.0" fill="none" stroke="#d4433a" stroke-width="5" stroke-linejoin="round" stroke-dasharray="none" />
+  <polygon points="3905.0,7825.0 3895.1,7808.8 3914.9,7808.8" fill="#d4433a" />
+  <polyline points="3905.0,7940.0 3905.0,7980.0 1565.0,7980.0 1565.0,8020.0" fill="none" stroke="#d4433a" stroke-width="5" stroke-linejoin="round" stroke-dasharray="none" />
+  <polygon points="1565.0,8020.0 1555.1,8003.8 1574.9,8003.8" fill="#d4433a" />
+  <polyline points="1565.0,8135.0 1565.0,8180.0 2345.0,8180.0 2345.0,8215.0" fill="none" stroke="#d4433a" stroke-width="5" stroke-linejoin="round" stroke-dasharray="none" />
+  <polygon points="2345.0,8215.0 2335.1,8198.8 2354.9,8198.8" fill="#d4433a" />
+  <polyline points="2690.0,8272.5 4290.0,8270.0 4290.0,7652.0 4250.0,7652.5" fill="none" stroke="#d4433a" stroke-width="5" stroke-linejoin="round" stroke-dasharray="none" />
+  <polygon points="4250.0,7652.5 4266.1,7642.4 4266.3,7662.2" fill="#d4433a" />
+  <polyline points="2345.0,7940.0 2345.0,7960.0 1175.0,7960.0 1175.0,8400.0 2345.0,8400.0 2345.0,8440.0" fill="none" stroke="#25874c" stroke-width="5" stroke-linejoin="round" stroke-dasharray="none" />
+  <polygon points="2345.0,8440.0 2335.1,8423.8 2354.9,8423.8" fill="#25874c" />
+  <polyline points="2345.0,8555.0 2345.0,8600.0 3905.0,8600.0 3905.0,8635.0" fill="none" stroke="#526c77" stroke-width="5" stroke-linejoin="round" stroke-dasharray="none" />
+  <polygon points="3905.0,8635.0 3895.1,8618.8 3914.9,8618.8" fill="#526c77" />
+  <polyline points="3905.0,8750.0 3905.0,8790.0 2345.0,8790.0 2345.0,8830.0" fill="none" stroke="#526c77" stroke-width="5" stroke-linejoin="round" stroke-dasharray="none" />
+  <polygon points="2345.0,8830.0 2335.1,8813.8 2354.9,8813.8" fill="#526c77" />
+  <polyline points="2345.0,8945.0 2345.0,8990.0 3905.0,8990.0 3905.0,9025.0" fill="none" stroke="#526c77" stroke-width="5" stroke-linejoin="round" stroke-dasharray="none" />
+  <polygon points="3905.0,9025.0 3895.1,9008.8 3914.9,9008.8" fill="#526c77" />
+  <polyline points="3905.0,9140.0 3905.0,9180.0 2345.0,9180.0 2345.0,9220.0" fill="none" stroke="#526c77" stroke-width="5" stroke-linejoin="round" stroke-dasharray="none" />
+  <polygon points="2345.0,9220.0 2335.1,9203.8 2354.9,9203.8" fill="#526c77" />
+  <polyline points="2345.0,9335.0 2345.0,9430.0" fill="none" stroke="#526c77" stroke-width="5" stroke-linejoin="round" stroke-dasharray="none" />
+  <polygon points="2345.0,9430.0 2335.1,9413.8 2354.9,9413.8" fill="#526c77" />
+  <polyline points="2345.0,9585.0 2345.0,9705.0" fill="none" stroke="#d4433a" stroke-width="5" stroke-linejoin="round" stroke-dasharray="none" />
+  <polygon points="2345.0,9705.0 2335.1,9688.8 2354.9,9688.8" fill="#d4433a" />
+  <polyline points="2690.0,9507.5 2690.0,9550.0 785.0,9550.0 785.0,9705.0" fill="none" stroke="#25874c" stroke-width="5" stroke-linejoin="round" stroke-dasharray="none" />
+  <polygon points="785.0,9705.0 775.1,9688.8 794.9,9688.8" fill="#25874c" />
+  <polyline points="3470.0,10412.5 1565.0,10575.0" fill="none" stroke="#526c77" stroke-width="5" stroke-linejoin="round" stroke-dasharray="none" />
+  <polygon points="1565.0,10575.0 1580.3,10563.7 1582.0,10583.5" fill="#526c77" />
+  <polyline points="1565.0,10700.0 1565.0,10885.0 3560.0,10885.0" fill="none" stroke="#526c77" stroke-width="5" stroke-linejoin="round" stroke-dasharray="none" />
+  <polygon points="3560.0,10885.0 3543.8,10894.9 3543.8,10875.1" fill="#526c77" />
+  <polyline points="3560.0,10885.0 3560.0,10990.0 1565.0,10990.0 1565.0,11030.0" fill="none" stroke="#d4433a" stroke-width="5" stroke-linejoin="round" stroke-dasharray="none" />
+  <polygon points="1565.0,11030.0 1555.1,11013.8 1574.9,11013.8" fill="#d4433a" />
+  <polyline points="3905.0,10960.0 3905.0,11010.0 3125.0,11010.0 3125.0,11030.0" fill="none" stroke="#25874c" stroke-width="5" stroke-linejoin="round" stroke-dasharray="none" />
+  <polygon points="3125.0,11030.0 3115.1,11013.8 3134.9,11013.8" fill="#25874c" />
+  <polyline points="3125.0,11155.0 3125.0,11260.0" fill="none" stroke="#526c77" stroke-width="5" stroke-linejoin="round" stroke-dasharray="none" />
+  <polygon points="3125.0,11260.0 3115.1,11243.8 3134.9,11243.8" fill="#526c77" />
+  <polyline points="3125.0,11415.0 3125.0,11490.0 2345.0,11490.0 2345.0,11520.0" fill="none" stroke="#25874c" stroke-width="5" stroke-linejoin="round" stroke-dasharray="none" />
+  <polygon points="2345.0,11520.0 2335.1,11503.8 2354.9,11503.8" fill="#25874c" />
+  <polyline points="2780.0,11337.5 2780.0,11455.0 1565.0,11455.0 1565.0,11520.0" fill="none" stroke="#d4433a" stroke-width="5" stroke-linejoin="round" stroke-dasharray="none" />
+  <polygon points="1565.0,11520.0 1555.1,11503.8 1574.9,11503.8" fill="#d4433a" />
+  <polyline points="3470.0,11337.5 3470.0,11210.0 3905.0,11210.0 3905.0,11520.0" fill="none" stroke="#b87a0d" stroke-width="5" stroke-linejoin="round" stroke-dasharray="none" />
+  <polygon points="3905.0,11520.0 3895.1,11503.8 3914.9,11503.8" fill="#b87a0d" />
+  <polyline points="2345.0,11635.0 2345.0,11710.0 3125.0,11710.0 3125.0,11770.0" fill="none" stroke="#25874c" stroke-width="5" stroke-linejoin="round" stroke-dasharray="none" />
+  <polygon points="3125.0,11770.0 3115.1,11753.8 3134.9,11753.8" fill="#25874c" />
+  <polyline points="3125.0,11885.0 3125.0,11970.0" fill="none" stroke="#526c77" stroke-width="5" stroke-linejoin="round" stroke-dasharray="none" />
+  <polygon points="3125.0,11970.0 3115.1,11953.8 3134.9,11953.8" fill="#526c77" />
+  <polyline points="2780.0,12047.5 2780.0,12150.0 785.0,12150.0 785.0,12230.0" fill="none" stroke="#25874c" stroke-width="5" stroke-linejoin="round" stroke-dasharray="none" />
+  <polygon points="785.0,12230.0 775.1,12213.8 794.9,12213.8" fill="#25874c" />
+  <polyline points="3125.0,12125.0 3125.0,12200.0 3905.0,12200.0 3905.0,12230.0" fill="none" stroke="#d4433a" stroke-width="5" stroke-linejoin="round" stroke-dasharray="none" />
+  <polygon points="3905.0,12230.0 3895.1,12213.8 3914.9,12213.8" fill="#d4433a" />
+  <polyline points="3125.0,12665.0 3125.0,12710.0 785.0,12710.0 785.0,12760.0" fill="none" stroke="#526c77" stroke-width="5" stroke-linejoin="round" stroke-dasharray="none" />
+  <polygon points="785.0,12760.0 775.1,12743.8 794.9,12743.8" fill="#526c77" />
+  <polyline points="785.0,12875.0 785.0,12920.0 3905.0,12920.0 3905.0,12970.0" fill="none" stroke="#526c77" stroke-width="5" stroke-linejoin="round" stroke-dasharray="none" />
+  <polygon points="3905.0,12970.0 3895.1,12953.8 3914.9,12953.8" fill="#526c77" />
+  <polyline points="3560.0,13045.0 3560.0,13170.0 785.0,13170.0 785.0,13210.0" fill="none" stroke="#25874c" stroke-width="5" stroke-linejoin="round" stroke-dasharray="none" />
+  <polygon points="785.0,13210.0 775.1,13193.8 794.9,13193.8" fill="#25874c" />
+  <polyline points="3905.0,13120.0 3905.0,13210.0" fill="none" stroke="#d4433a" stroke-width="5" stroke-linejoin="round" stroke-dasharray="none" />
+  <polygon points="3905.0,13210.0 3895.1,13193.8 3914.9,13193.8" fill="#d4433a" />
+  <polyline points="785.0,13325.0 785.0,13395.0 3905.0,13395.0 3905.0,13440.0" fill="none" stroke="#526c77" stroke-width="5" stroke-linejoin="round" stroke-dasharray="none" />
+  <polygon points="3905.0,13440.0 3895.1,13423.8 3914.9,13423.8" fill="#526c77" />
+  <polyline points="3905.0,13555.0 3905.0,13630.0 3125.0,13630.0 3125.0,13690.0" fill="none" stroke="#526c77" stroke-width="5" stroke-linejoin="round" stroke-dasharray="none" />
+  <polygon points="3125.0,13690.0 3115.1,13673.8 3134.9,13673.8" fill="#526c77" />
+  <polyline points="3125.0,13805.0 3125.0,13840.0 3905.0,13840.0 3905.0,13870.0" fill="none" stroke="#526c77" stroke-width="5" stroke-linejoin="round" stroke-dasharray="none" />
+  <polygon points="3905.0,13870.0 3895.1,13853.8 3914.9,13853.8" fill="#526c77" />
+  <polyline points="3560.0,13942.5 3560.0,14030.0 3125.0,14030.0 3125.0,14060.0" fill="none" stroke="#25874c" stroke-width="5" stroke-linejoin="round" stroke-dasharray="none" />
+  <polygon points="3125.0,14060.0 3115.1,14043.8 3134.9,14043.8" fill="#25874c" />
+  <polyline points="3905.0,14015.0 3905.0,14060.0" fill="none" stroke="#d4433a" stroke-width="5" stroke-linejoin="round" stroke-dasharray="none" />
+  <polygon points="3905.0,14060.0 3895.1,14043.8 3914.9,14043.8" fill="#d4433a" />
+  <rect x="2780.0" y="380" width="690.0" height="120" rx="18" fill="white" stroke="#397e9d" stroke-width="4" stroke-dasharray="none" />
+  <text x="3125.0" y="408.0" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">1A｜教育局同仁／本校人員以 Open ID 登入；無 Open </text>
+  <text x="3125.0" y="443.0" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">ID 人員以指定帳密登入</text>
+  <rect x="1220.0" y="380" width="690.0" height="120" rx="18" fill="white" stroke="#8667b3" stroke-width="4" stroke-dasharray="none" />
+  <text x="1565.0" y="425.5" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">1B｜他校以教育局 Open ID 登入</text>
+  <rect x="3560.0" y="570" width="690.0" height="110" rx="18" fill="white" stroke="#4f9b6c" stroke-width="4" stroke-dasharray="none" />
+  <text x="3905.0" y="610.5" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">2｜驗證登入、辨識所屬單位與帳號角色</text>
+  <polygon points="3905.0,750 4250.0,825.0 3905.0,900 3560.0,825.0" fill="#fff2cf" stroke="#b87a0d" stroke-width="5" />
+  <text x="3905.0" y="810.5" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">3｜是否為教育局同仁或本校人員？</text>
+  <rect x="2780.0" y="970" width="690.0" height="105" rx="18" fill="white" stroke="#397e9d" stroke-width="4" stroke-dasharray="none" />
+  <text x="3125.0" y="1008.0" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">4A｜是：取得系統管理員權限</text>
+  <rect x="1220.0" y="970" width="690.0" height="105" rx="18" fill="white" stroke="#8667b3" stroke-width="4" stroke-dasharray="none" />
+  <text x="1565.0" y="1008.0" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">4B｜否：他校取得一般學校權限</text>
+  <rect x="2780.0" y="1175" width="690.0" height="110" rx="18" fill="white" stroke="#397e9d" stroke-width="4" stroke-dasharray="none" />
+  <text x="3125.0" y="1215.5" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">5｜管理員逐一指定學校授予承辦權限；此處執行唯一授權</text>
+  <polygon points="3905.0,1180 4250.0,1255.0 3905.0,1330 3560.0,1255.0" fill="#fff2cf" stroke="#b87a0d" stroke-width="5" />
+  <text x="3905.0" y="1240.5" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">6｜是否已有承辦學校權限？</text>
+  <rect x="2000.0" y="1400" width="690.0" height="110" rx="18" fill="white" stroke="#bc881c" stroke-width="4" stroke-dasharray="none" />
+  <text x="2345.0" y="1440.5" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">7A｜是：增開承辦學校工作區；一般學校身分保留</text>
+  <rect x="1220.0" y="1400" width="690.0" height="110" rx="18" fill="white" stroke="#8667b3" stroke-width="4" stroke-dasharray="none" />
+  <text x="1565.0" y="1440.5" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">7B｜否：維持一般學校工作區</text>
+  <rect x="440.0" y="975" width="690.0" height="110" rx="10" fill="#f8eef4" stroke="#526c77" stroke-width="3" stroke-dasharray="10 7" />
+  <text x="785.0" y="1015.88" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="24" font-weight="400" fill="#526c77">未登入訪客僅能查看公開網頁</text>
+  <rect x="2780.0" y="1625" width="690.0" height="115" rx="18" fill="white" stroke="#397e9d" stroke-width="4" stroke-dasharray="none" />
+  <text x="3125.0" y="1668.0" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">1｜管理網站分頁與學校資料；匯入各校班級數</text>
+  <rect x="2780.0" y="1815" width="690.0" height="115" rx="18" fill="white" stroke="#397e9d" stroke-width="4" stroke-dasharray="none" />
+  <text x="3125.0" y="1840.5" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">2｜設定跑馬輪播與最新消息：分類、關鍵字、附件、連結</text>
+  <text x="3125.0" y="1875.5" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">、起訖時間</text>
+  <rect x="2780.0" y="2005" width="690.0" height="115" rx="18" fill="white" stroke="#397e9d" stroke-width="4" stroke-dasharray="none" />
+  <text x="3125.0" y="2048.0" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">3｜管理組織圖、中心成員、人才資料庫及其公開欄位</text>
+  <rect x="2780.0" y="2195" width="690.0" height="115" rx="18" fill="white" stroke="#397e9d" stroke-width="4" stroke-dasharray="none" />
+  <text x="3125.0" y="2238.0" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">4｜管理檔案下載、常見問答與好站連結</text>
+  <rect x="2780.0" y="2385" width="690.0" height="115" rx="18" fill="white" stroke="#397e9d" stroke-width="4" stroke-dasharray="none" />
+  <text x="3125.0" y="2410.5" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">5｜設定中心聯絡資訊；提供瀏覽人數、全站搜尋及熱門關</text>
+  <text x="3125.0" y="2445.5" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">鍵字</text>
+  <polygon points="3905.0,2555 4250.0,2627.5 3905.0,2700 3560.0,2627.5" fill="#fff2cf" stroke="#b87a0d" stroke-width="5" />
+  <text x="3905.0" y="2595.5" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">6｜公告期限內、欄位允許公開且雙語內容可</text>
+  <text x="3905.0" y="2630.5" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">顯示？</text>
+  <rect x="440.0" y="2745" width="690.0" height="100" rx="18" fill="white" stroke="#a36e90" stroke-width="4" stroke-dasharray="none" />
+  <text x="785.0" y="2780.5" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">7A｜是：訪客瀏覽公開內容與搜尋結果</text>
+  <rect x="3560.0" y="2745" width="690.0" height="100" rx="18" fill="white" stroke="#4f9b6c" stroke-width="4" stroke-dasharray="none" />
+  <text x="3905.0" y="2780.5" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">7B｜否：不在公開網頁顯示</text>
+  <rect x="2780.0" y="2945" width="690.0" height="120" rx="18" fill="white" stroke="#397e9d" stroke-width="4" stroke-dasharray="none" />
+  <text x="3125.0" y="2990.5" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">1｜新增調查表與題目、設定期限，逐一指定可填報學校</text>
+  <polygon points="3905.0,3130 4250.0,3202.5 3905.0,3275 3560.0,3202.5" fill="#fff2cf" stroke="#b87a0d" stroke-width="5" />
+  <text x="3905.0" y="3188.0" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">2｜學校受指定且目前在填報期限內？</text>
+  <rect x="2000.0" y="3355" width="690.0" height="115" rx="10" fill="#fff5dd" stroke="#526c77" stroke-width="3" stroke-dasharray="10 7" />
+  <text x="2345.0" y="3398.38" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="24" font-weight="400" fill="#526c77">亦可使用一般學校工作區共用功能；受指定時可填報</text>
+  <rect x="1220.0" y="3355" width="690.0" height="115" rx="18" fill="white" stroke="#8667b3" stroke-width="4" stroke-dasharray="none" />
+  <text x="1565.0" y="3398.0" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">3｜受指定學校填報、送出（一般學校與承辦學校共用）</text>
+  <rect x="3560.0" y="3355" width="690.0" height="115" rx="18" fill="white" stroke="#4f9b6c" stroke-width="4" stroke-dasharray="none" />
+  <text x="3905.0" y="3398.0" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">3C｜否：不開放填報入口</text>
+  <polygon points="3905.0,3600 4250.0,3672.5 3905.0,3745 3560.0,3672.5" fill="#fff1e7" stroke="#d8783a" stroke-width="5" />
+  <text x="3905.0" y="3658.0" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">4｜欄位與送出資料符合規則？〔待確認〕</text>
+  <rect x="2780.0" y="3900" width="690.0" height="125" rx="18" fill="white" stroke="#397e9d" stroke-width="4" stroke-dasharray="none" />
+  <text x="3125.0" y="3948.0" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">5A｜是：檢視未填報名單與統計，匯出 Word／Excel</text>
+  <rect x="3560.0" y="3900" width="690.0" height="125" rx="18" fill="#fff1e7" stroke="#d8783a" stroke-width="4" stroke-dasharray="none" />
+  <text x="3905.0" y="3948.0" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">5B｜否：提示並由學校修正〔待確認〕</text>
+  <rect x="2780.0" y="4185" width="690.0" height="120" rx="18" fill="white" stroke="#397e9d" stroke-width="4" stroke-dasharray="none" />
+  <text x="3125.0" y="4213.0" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">1｜管理員分別設定教學資源與成果照片的分類、細項、檔</text>
+  <text x="3125.0" y="4248.0" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">案／文字限制及公開範圍</text>
+  <rect x="2000.0" y="4410" width="690.0" height="115" rx="10" fill="#fff5dd" stroke="#526c77" stroke-width="3" stroke-dasharray="10 7" />
+  <text x="2345.0" y="4453.38" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="24" font-weight="400" fill="#526c77">亦可使用一般學校工作區共用功能</text>
+  <rect x="1220.0" y="4410" width="690.0" height="115" rx="18" fill="white" stroke="#8667b3" stroke-width="4" stroke-dasharray="none" />
+  <text x="1565.0" y="4435.5" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">2｜已註冊學校選擇教學資源或成果照片，上傳檔案與文字</text>
+  <text x="1565.0" y="4470.5" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">說明（含承辦學校）</text>
+  <polygon points="3905.0,4635 4250.0,4707.5 3905.0,4780 3560.0,4707.5" fill="#fff1e7" stroke="#d8783a" stroke-width="5" />
+  <text x="3905.0" y="4675.5" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">3｜符合所選類型的檔案與文字限制？〔處理</text>
+  <text x="3905.0" y="4710.5" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">方式待確認〕</text>
+  <rect x="1220.0" y="4890" width="690.0" height="115" rx="18" fill="#fff1e7" stroke="#d8783a" stroke-width="4" stroke-dasharray="none" />
+  <text x="1565.0" y="4933.0" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">4B｜否：修正後重新上傳〔待確認〕</text>
+  <rect x="3560.0" y="4890" width="690.0" height="115" rx="18" fill="white" stroke="#4f9b6c" stroke-width="4" stroke-dasharray="none" />
+  <text x="3905.0" y="4933.0" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">4A｜是：依類型儲存，供管理員檢視與打包下載</text>
+  <polygon points="3905.0,5125 4250.0,5197.5 3905.0,5270 3560.0,5197.5" fill="#fff2cf" stroke="#b87a0d" stroke-width="5" />
+  <text x="3905.0" y="5183.0" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">5｜所選類型與項目允許對外公開？</text>
+  <rect x="440.0" y="5355" width="690.0" height="105" rx="18" fill="white" stroke="#a36e90" stroke-width="4" stroke-dasharray="none" />
+  <text x="785.0" y="5393.0" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">6A｜是：訪客瀏覽公開的教學資源或成果照片</text>
+  <rect x="3560.0" y="5355" width="690.0" height="105" rx="18" fill="white" stroke="#4f9b6c" stroke-width="4" stroke-dasharray="none" />
+  <text x="3905.0" y="5393.0" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">6B｜否：保留於後台</text>
+  <polygon points="3905.0,5575 4250.0,5647.5 3905.0,5720 3560.0,5647.5" fill="#fff1e7" stroke="#d8783a" stroke-width="5" />
+  <text x="3905.0" y="5615.5" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">1｜競賽前：已有承辦權限且屬於該競賽承辦</text>
+  <text x="3905.0" y="5650.5" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">學校？〔歸屬判斷待確認〕</text>
+  <rect x="2780.0" y="5775" width="690.0" height="115" rx="18" fill="white" stroke="#397e9d" stroke-width="4" stroke-dasharray="none" />
+  <text x="3125.0" y="5800.5" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">2B｜否：返回「帳號及權限」由管理員授權；不在此重複</text>
+  <text x="3125.0" y="5835.5" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">授權</text>
+  <rect x="2000.0" y="5775" width="690.0" height="115" rx="18" fill="white" stroke="#bc881c" stroke-width="4" stroke-dasharray="none" />
+  <text x="2345.0" y="5800.5" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">2A｜是：承辦學校建立競賽，設定名稱、時間、地點、須</text>
+  <text x="2345.0" y="5835.5" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">知與評分標準</text>
+  <rect x="2780.0" y="5970" width="690.0" height="115" rx="18" fill="white" stroke="#397e9d" stroke-width="4" stroke-dasharray="none" />
+  <text x="3125.0" y="5995.5" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">3｜管理員依競賽需求新增參賽人員、指導教師、行政支援</text>
+  <text x="3125.0" y="6030.5" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">教師欄位</text>
+  <rect x="2000.0" y="6165" width="690.0" height="115" rx="18" fill="#fff1e7" stroke="#d8783a" stroke-width="4" stroke-dasharray="none" />
+  <text x="2345.0" y="6190.5" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">4｜承辦學校設定組別、報名／修正／上傳三段時窗、名額</text>
+  <text x="2345.0" y="6225.5" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">上限；設定齊全與時間衝突檢核待確認</text>
+  <rect x="1220.0" y="6365" width="690.0" height="125" rx="18" fill="white" stroke="#8667b3" stroke-width="4" stroke-dasharray="none" />
+  <text x="1565.0" y="6395.5" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">5｜一般學校查看競賽，填寫資料並送出報名；承辦學校參</text>
+  <text x="1565.0" y="6430.5" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">賽時亦用一般學校身分</text>
+  <polygon points="3905.0,6580 4250.0,6655.0 3905.0,6730 3560.0,6655.0" fill="#fff2cf" stroke="#b87a0d" stroke-width="5" />
+  <text x="3905.0" y="6640.5" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">6｜校別、組別、報名時窗與名額均符合？</text>
+  <rect x="3560.0" y="6795" width="690.0" height="110" rx="18" fill="white" stroke="#4f9b6c" stroke-width="4" stroke-dasharray="none" />
+  <text x="3905.0" y="6835.5" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">7B｜否：停止新增報名；提示原因</text>
+  <rect x="3560.0" y="6980" width="690.0" height="120" rx="18" fill="white" stroke="#4f9b6c" stroke-width="4" stroke-dasharray="none" />
+  <text x="3905.0" y="7008.0" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">7A｜是：產出報名表暨授權書 PDF、參賽名冊 Excel、評</text>
+  <text x="3905.0" y="7043.0" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">審表 Word</text>
+  <rect x="1220.0" y="7175" width="690.0" height="115" rx="18" fill="white" stroke="#8667b3" stroke-width="4" stroke-dasharray="none" />
+  <text x="1565.0" y="7218.0" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">8｜學校在開放時段修正資料並上傳報名文件</text>
+  <rect x="2000.0" y="7370" width="690.0" height="115" rx="18" fill="#fff1e7" stroke="#d8783a" stroke-width="4" stroke-dasharray="none" />
+  <text x="2345.0" y="7395.5" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">9｜承辦學校審核文件並填寫結果與意見；案件狀態檢核方</text>
+  <text x="2345.0" y="7430.5" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">式待確認</text>
+  <polygon points="3905.0,7570 4250.0,7652.5 3905.0,7735 3560.0,7652.5" fill="#fff2cf" stroke="#b87a0d" stroke-width="5" />
+  <text x="3905.0" y="7638.0" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">10｜審核結果？</text>
+  <rect x="2000.0" y="7825" width="690.0" height="115" rx="18" fill="white" stroke="#bc881c" stroke-width="4" stroke-dasharray="none" />
+  <text x="2345.0" y="7868.0" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">11A｜通過：承辦學校確認名冊</text>
+  <rect x="3560.0" y="7825" width="690.0" height="115" rx="18" fill="white" stroke="#4f9b6c" stroke-width="4" stroke-dasharray="none" />
+  <text x="3905.0" y="7868.0" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">11B｜需補件：顯示待補件狀態與審核意見</text>
+  <rect x="1220.0" y="8020" width="690.0" height="115" rx="18" fill="white" stroke="#8667b3" stroke-width="4" stroke-dasharray="none" />
+  <text x="1565.0" y="8063.0" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">12｜學校查看意見、修改資料並重新上傳</text>
+  <rect x="2000.0" y="8215" width="690.0" height="115" rx="18" fill="white" stroke="#bc881c" stroke-width="4" stroke-dasharray="none" />
+  <text x="2345.0" y="8258.0" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">13｜承辦學校再次審核；重複直到通過或再要求補件</text>
+  <rect x="2000.0" y="8440" width="690.0" height="115" rx="18" fill="white" stroke="#bc881c" stroke-width="4" stroke-dasharray="none" />
+  <text x="2345.0" y="8483.0" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">14｜承辦學校確認名冊並執行出場序抽籤</text>
+  <rect x="3560.0" y="8635" width="690.0" height="115" rx="18" fill="white" stroke="#4f9b6c" stroke-width="4" stroke-dasharray="none" />
+  <text x="3905.0" y="8678.0" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">15｜系統依組別隨機抽出場序號</text>
+  <rect x="2000.0" y="8830" width="690.0" height="115" rx="18" fill="white" stroke="#bc881c" stroke-width="4" stroke-dasharray="none" />
+  <text x="2345.0" y="8873.0" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">16｜承辦學校設定出場序公告，手動登錄各評審成績</text>
+  <rect x="3560.0" y="9025" width="690.0" height="115" rx="18" fill="white" stroke="#4f9b6c" stroke-width="4" stroke-dasharray="none" />
+  <text x="3905.0" y="9068.0" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">17｜系統產生序位、序位合計及供簽名的成績總表</text>
+  <rect x="2000.0" y="9220" width="690.0" height="115" rx="18" fill="white" stroke="#bc881c" stroke-width="4" stroke-dasharray="none" />
+  <text x="2345.0" y="9263.0" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">18｜承辦學校手動登錄名次與佳作，勾選可公開欄位</text>
+  <polygon points="2345.0,9430 2690.0,9507.5 2345.0,9585 2000.0,9507.5" fill="#fff1e7" stroke="#d8783a" stroke-width="5" />
+  <text x="2345.0" y="9475.5" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">19｜登分資料齊全、公開欄位已勾且決定發</text>
+  <text x="2345.0" y="9510.5" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">布？〔齊全規則待確認〕</text>
+  <rect x="2000.0" y="9705" width="690.0" height="115" rx="18" fill="white" stroke="#bc881c" stroke-width="4" stroke-dasharray="none" />
+  <text x="2345.0" y="9748.0" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">20B｜否：保留草稿，暫不公開</text>
+  <rect x="440.0" y="9705" width="690.0" height="115" rx="18" fill="white" stroke="#a36e90" stroke-width="4" stroke-dasharray="none" />
+  <text x="785.0" y="9748.0" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">20A｜是：訪客查看已公開出場序與得獎名單</text>
+  <rect x="440.0" y="9980" width="690.0" height="110" rx="10" fill="#f8eef4" stroke="#526c77" stroke-width="3" stroke-dasharray="10 7" />
+  <text x="785.0" y="10020.88" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="24" font-weight="400" fill="#526c77">個人資料、審核意見與補件內容不對外公開</text>
+  <rect x="2780.0" y="10355" width="690.0" height="115" rx="18" fill="white" stroke="#397e9d" stroke-width="4" stroke-dasharray="none" />
+  <text x="3125.0" y="10398.0" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">1｜開立計畫專案，設定填報內容、附件、期限與公開欄位</text>
+  <rect x="2000.0" y="10575" width="690.0" height="125" rx="10" fill="#fff5dd" stroke="#526c77" stroke-width="3" stroke-dasharray="10 7" />
+  <text x="2345.0" y="10623.38" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="24" font-weight="400" fill="#526c77">亦可使用一般學校工作區共用功能</text>
+  <rect x="1220.0" y="10575" width="690.0" height="125" rx="18" fill="white" stroke="#8667b3" stroke-width="4" stroke-dasharray="none" />
+  <text x="1565.0" y="10623.0" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">2｜學校填寫計畫與經費概算、上傳文件（含承辦學校）</text>
+  <polygon points="3905.0,10810 4250.0,10885.0 3905.0,10960 3560.0,10885.0" fill="#fff1e7" stroke="#d8783a" stroke-width="5" />
+  <text x="3905.0" y="10853.0" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">3｜校別、期限、階段、經費欄位及附件符合</text>
+  <text x="3905.0" y="10888.0" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">設定？〔異常處理待確認〕</text>
+  <rect x="1220.0" y="11030" width="690.0" height="115" rx="18" fill="#fff1e7" stroke="#d8783a" stroke-width="4" stroke-dasharray="none" />
+  <text x="1565.0" y="11073.0" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">4B｜否：提示學校修正〔待確認〕</text>
+  <rect x="2780.0" y="11030" width="690.0" height="125" rx="18" fill="white" stroke="#397e9d" stroke-width="4" stroke-dasharray="none" />
+  <text x="3125.0" y="11078.0" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">4A｜是：管理員檢視及匯出 Excel，執行第一階段審查</text>
+  <polygon points="3125.0,11260 3470.0,11337.5 3125.0,11415 2780.0,11337.5" fill="#fff2cf" stroke="#b87a0d" stroke-width="5" />
+  <text x="3125.0" y="11323.0" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">5｜第一階段審查結果？</text>
+  <rect x="2000.0" y="11520" width="690.0" height="115" rx="18" fill="white" stroke="#bc881c" stroke-width="4" stroke-dasharray="none" />
+  <text x="2345.0" y="11563.0" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">6A｜通過：進入第二階段</text>
+  <rect x="1220.0" y="11520" width="690.0" height="115" rx="18" fill="#fff1e7" stroke="#d8783a" stroke-width="4" stroke-dasharray="none" />
+  <text x="1565.0" y="11563.0" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">6B｜不通過：結果與後續處理待確認</text>
+  <rect x="3560.0" y="11520" width="690.0" height="115" rx="18" fill="#fff1e7" stroke="#d8783a" stroke-width="4" stroke-dasharray="none" />
+  <text x="3905.0" y="11563.0" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">6C｜修正後通過：送回修正與再審時點待確認</text>
+  <rect x="2780.0" y="11770" width="690.0" height="115" rx="18" fill="white" stroke="#397e9d" stroke-width="4" stroke-dasharray="none" />
+  <text x="3125.0" y="11813.0" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">7｜管理員執行第二階段審查並填寫意見</text>
+  <polygon points="3125.0,11970 3470.0,12047.5 3125.0,12125 2780.0,12047.5" fill="#fff2cf" stroke="#b87a0d" stroke-width="5" />
+  <text x="3125.0" y="12033.0" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">8｜第二階段是否通過？</text>
+  <rect x="440.0" y="12230" width="690.0" height="115" rx="18" fill="white" stroke="#a36e90" stroke-width="4" stroke-dasharray="none" />
+  <text x="785.0" y="12273.0" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">9A｜通過：依管理員公開設定顯示結果與文件</text>
+  <rect x="3560.0" y="12230" width="690.0" height="115" rx="18" fill="#fff1e7" stroke="#d8783a" stroke-width="4" stroke-dasharray="none" />
+  <text x="3905.0" y="12273.0" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">9B｜不通過：通知／修正時點待確認</text>
+  <rect x="2780.0" y="12535" width="690.0" height="130" rx="18" fill="white" stroke="#397e9d" stroke-width="4" stroke-dasharray="none" />
+  <text x="3125.0" y="12568.0" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">1｜管理員建立活動與場次，設定調查欄位、起訖時間、注</text>
+  <text x="3125.0" y="12603.0" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">意事項及正備取名額</text>
+  <rect x="440.0" y="12760" width="690.0" height="115" rx="18" fill="white" stroke="#a36e90" stroke-width="4" stroke-dasharray="none" />
+  <text x="785.0" y="12803.0" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">2｜訪客免登入查看場次、報名期間與可報名餘額</text>
+  <polygon points="3905.0,12970 4250.0,13045.0 3905.0,13120 3560.0,13045.0" fill="#fff1e7" stroke="#d8783a" stroke-width="5" />
+  <text x="3905.0" y="13013.0" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">3｜是否未重複、仍在期限且正備取名額未滿</text>
+  <text x="3905.0" y="13048.0" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">？〔防重方式待確認〕</text>
+  <rect x="440.0" y="13210" width="690.0" height="115" rx="18" fill="white" stroke="#a36e90" stroke-width="4" stroke-dasharray="none" />
+  <text x="785.0" y="13253.0" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">4A｜是：訪客填寫資料並送出報名</text>
+  <rect x="3560.0" y="13210" width="690.0" height="115" rx="18" fill="#fff1e7" stroke="#d8783a" stroke-width="4" stroke-dasharray="none" />
+  <text x="3905.0" y="13235.5" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">4B｜否：拒絕並顯示重複、逾期或額滿原因〔提示細節待</text>
+  <text x="3905.0" y="13270.5" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">確認〕</text>
+  <rect x="3560.0" y="13440" width="690.0" height="115" rx="18" fill="white" stroke="#4f9b6c" stroke-width="4" stroke-dasharray="none" />
+  <text x="3905.0" y="13483.0" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">5｜依名額記錄正取／備取並更新可報名餘額</text>
+  <rect x="2780.0" y="13690" width="690.0" height="115" rx="18" fill="white" stroke="#397e9d" stroke-width="4" stroke-dasharray="none" />
+  <text x="3125.0" y="13733.0" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">6｜管理員匯出該場報名資料 Excel</text>
+  <polygon points="3905.0,13870 4250.0,13942.5 3905.0,14015 3560.0,13942.5" fill="#fff2cf" stroke="#b87a0d" stroke-width="5" />
+  <text x="3905.0" y="13928.0" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">7｜活動已結束？</text>
+  <rect x="2780.0" y="14060" width="690.0" height="100" rx="18" fill="white" stroke="#397e9d" stroke-width="4" stroke-dasharray="none" />
+  <text x="3125.0" y="14095.5" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">8A｜是：管理員從後台刪除該場全部報名資料及紀錄</text>
+  <rect x="3560.0" y="14060" width="690.0" height="100" rx="18" fill="white" stroke="#4f9b6c" stroke-width="4" stroke-dasharray="none" />
+  <text x="3905.0" y="14095.5" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="700" fill="#294856">8B｜否：保留報名資料與紀錄</text>
+  <rect x="3010.0" y="922" width="230" height="42" rx="7" fill="white" stroke="#25874c" stroke-width="2" />
+  <text x="3125.0" y="929.64" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="22" font-weight="700" fill="#25874c">是</text>
+  <rect x="1450.0" y="922" width="230" height="42" rx="7" fill="white" stroke="#d4433a" stroke-width="2" />
+  <text x="1565.0" y="929.64" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="22" font-weight="700" fill="#d4433a">否</text>
+  <rect x="2230.0" y="1352" width="230" height="42" rx="7" fill="white" stroke="#25874c" stroke-width="2" />
+  <text x="2345.0" y="1359.64" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="22" font-weight="700" fill="#25874c">是</text>
+  <rect x="1450.0" y="1352" width="230" height="42" rx="7" fill="white" stroke="#d4433a" stroke-width="2" />
+  <text x="1565.0" y="1359.64" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="22" font-weight="700" fill="#d4433a">否</text>
+  <rect x="670.0" y="2697" width="230" height="42" rx="7" fill="white" stroke="#25874c" stroke-width="2" />
+  <text x="785.0" y="2704.64" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="22" font-weight="700" fill="#25874c">是</text>
+  <rect x="3790.0" y="2697" width="230" height="42" rx="7" fill="white" stroke="#d4433a" stroke-width="2" />
+  <text x="3905.0" y="2704.64" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="22" font-weight="700" fill="#d4433a">否</text>
+  <rect x="1450.0" y="3307" width="230" height="42" rx="7" fill="white" stroke="#25874c" stroke-width="2" />
+  <text x="1565.0" y="3314.64" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="22" font-weight="700" fill="#25874c">是／受指定</text>
+  <rect x="3790.0" y="3307" width="230" height="42" rx="7" fill="white" stroke="#d4433a" stroke-width="2" />
+  <text x="3905.0" y="3314.64" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="22" font-weight="700" fill="#d4433a">否</text>
+  <rect x="3010.0" y="3852" width="230" height="42" rx="7" fill="white" stroke="#25874c" stroke-width="2" />
+  <text x="3125.0" y="3859.64" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="22" font-weight="700" fill="#25874c">通過</text>
+  <rect x="3790.0" y="3852" width="230" height="42" rx="7" fill="white" stroke="#d4433a" stroke-width="2" />
+  <text x="3905.0" y="3859.64" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="22" font-weight="700" fill="#d4433a">不通過</text>
+  <rect x="1450.0" y="4842" width="230" height="42" rx="7" fill="white" stroke="#d4433a" stroke-width="2" />
+  <text x="1565.0" y="4849.64" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="22" font-weight="700" fill="#d4433a">否</text>
+  <rect x="3790.0" y="4842" width="230" height="42" rx="7" fill="white" stroke="#25874c" stroke-width="2" />
+  <text x="3905.0" y="4849.64" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="22" font-weight="700" fill="#25874c">是</text>
+  <rect x="670.0" y="5307" width="230" height="42" rx="7" fill="white" stroke="#25874c" stroke-width="2" />
+  <text x="785.0" y="5314.64" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="22" font-weight="700" fill="#25874c">是</text>
+  <rect x="3790.0" y="5307" width="230" height="42" rx="7" fill="white" stroke="#d4433a" stroke-width="2" />
+  <text x="3905.0" y="5314.64" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="22" font-weight="700" fill="#d4433a">否</text>
+  <rect x="2230.0" y="5727" width="230" height="42" rx="7" fill="white" stroke="#25874c" stroke-width="2" />
+  <text x="2345.0" y="5734.64" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="22" font-weight="700" fill="#25874c">已授權</text>
+  <rect x="3010.0" y="5727" width="230" height="42" rx="7" fill="white" stroke="#d4433a" stroke-width="2" />
+  <text x="3125.0" y="5734.64" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="22" font-weight="700" fill="#d4433a">未授權</text>
+  <rect x="3790.0" y="6747" width="230" height="42" rx="7" fill="white" stroke="#d4433a" stroke-width="2" />
+  <text x="3905.0" y="6754.64" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="22" font-weight="700" fill="#d4433a">否／停止</text>
+  <rect x="3790.0" y="6932" width="230" height="42" rx="7" fill="white" stroke="#25874c" stroke-width="2" />
+  <text x="3905.0" y="6939.64" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="22" font-weight="700" fill="#25874c">是／受理</text>
+  <rect x="2230.0" y="7777" width="230" height="42" rx="7" fill="white" stroke="#25874c" stroke-width="2" />
+  <text x="2345.0" y="7784.64" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="22" font-weight="700" fill="#25874c">通過</text>
+  <rect x="3790.0" y="7777" width="230" height="42" rx="7" fill="white" stroke="#d4433a" stroke-width="2" />
+  <text x="3905.0" y="7784.64" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="22" font-weight="700" fill="#d4433a">需補件</text>
+  <rect x="4015.0" y="7760" width="230" height="42" rx="7" fill="white" stroke="#d4433a" stroke-width="2" />
+  <text x="4130.0" y="7767.64" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="22" font-weight="700" fill="#d4433a">再次審核</text>
+  <rect x="2230.0" y="9657" width="230" height="42" rx="7" fill="white" stroke="#d4433a" stroke-width="2" />
+  <text x="2345.0" y="9664.64" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="22" font-weight="700" fill="#d4433a">否</text>
+  <rect x="670.0" y="9657" width="230" height="42" rx="7" fill="white" stroke="#25874c" stroke-width="2" />
+  <text x="785.0" y="9664.64" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="22" font-weight="700" fill="#25874c">是</text>
+  <rect x="1450.0" y="10982" width="230" height="42" rx="7" fill="white" stroke="#d4433a" stroke-width="2" />
+  <text x="1565.0" y="10989.64" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="22" font-weight="700" fill="#d4433a">否</text>
+  <rect x="3010.0" y="10982" width="230" height="42" rx="7" fill="white" stroke="#25874c" stroke-width="2" />
+  <text x="3125.0" y="10989.64" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="22" font-weight="700" fill="#25874c">是</text>
+  <rect x="2230.0" y="11472" width="230" height="42" rx="7" fill="white" stroke="#25874c" stroke-width="2" />
+  <text x="2345.0" y="11479.64" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="22" font-weight="700" fill="#25874c">通過</text>
+  <rect x="1450.0" y="11472" width="230" height="42" rx="7" fill="white" stroke="#d4433a" stroke-width="2" />
+  <text x="1565.0" y="11479.64" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="22" font-weight="700" fill="#d4433a">不通過</text>
+  <rect x="3790.0" y="11472" width="230" height="42" rx="7" fill="white" stroke="#b87a0d" stroke-width="2" />
+  <text x="3905.0" y="11479.64" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="22" font-weight="700" fill="#b87a0d">修正後通過</text>
+  <rect x="670.0" y="12182" width="230" height="42" rx="7" fill="white" stroke="#25874c" stroke-width="2" />
+  <text x="785.0" y="12189.64" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="22" font-weight="700" fill="#25874c">通過</text>
+  <rect x="3790.0" y="12182" width="230" height="42" rx="7" fill="white" stroke="#d4433a" stroke-width="2" />
+  <text x="3905.0" y="12189.64" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="22" font-weight="700" fill="#d4433a">不通過</text>
+  <rect x="670.0" y="13162" width="230" height="42" rx="7" fill="white" stroke="#25874c" stroke-width="2" />
+  <text x="785.0" y="13169.64" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="22" font-weight="700" fill="#25874c">符合</text>
+  <rect x="3790.0" y="13162" width="230" height="42" rx="7" fill="white" stroke="#d4433a" stroke-width="2" />
+  <text x="3905.0" y="13169.64" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="22" font-weight="700" fill="#d4433a">不符合</text>
+  <rect x="3010.0" y="14012" width="230" height="42" rx="7" fill="white" stroke="#25874c" stroke-width="2" />
+  <text x="3125.0" y="14019.64" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="22" font-weight="700" fill="#25874c">已結束</text>
+  <rect x="3790.0" y="14012" width="230" height="42" rx="7" fill="white" stroke="#d4433a" stroke-width="2" />
+  <text x="3905.0" y="14019.64" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="22" font-weight="700" fill="#d4433a">未結束</text>
+  <rect x="55" y="14237" width="4197" height="77" fill="#edf3f4" stroke="#c8d5d9" stroke-width="2" />
+  <text x="2152.5" y="14261.0" text-anchor="middle" dominant-baseline="hanging" font-family="Microsoft JhengHei, Noto Sans CJK TC, sans-serif" font-size="25" font-weight="400" fill="#526c77">教學資源與成果照片共用流程，但分類、欄位、檔案限制及公開規則可分別設定；橘色＝待確認，綠色＝通過，紅色＝不通過。</text>
+</svg>

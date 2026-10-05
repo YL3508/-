@@ -1,0 +1,6 @@
+#school-preview,#school-complete,#organizer-confirm{width:min(650px,calc(100vw - 32px));max-height:85vh;overflow:auto;padding:28px;border:1px solid #a7b8bd;border-radius:14px;color:var(--ink)}
+#school-complete{width:min(480px,calc(100vw - 32px))}
+#school-preview::backdrop,#school-complete::backdrop,#organizer-confirm::backdrop{background:#142d3bb3}
+.confirm-list{margin:18px 0 24px}.confirm-list>div{display:grid;grid-template-columns:150px 1fr;gap:12px;padding:10px 0;border-top:1px solid var(--line)}.confirm-list dt{color:var(--muted)}.confirm-list dd{margin:0;font-weight:650;overflow-wrap:anywhere}
+.roster-empty{padding:20px;background:#f4f7f8;border-radius:10px;color:var(--muted)}
+@media(max-width:560px){.confirm-list>div{grid-template-columns:1fr;gap:2px}}

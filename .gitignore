@@ -1,0 +1,24 @@
+# Local secrets and dependencies
+.env
+.env.*
+!.env.example
+auth.json
+*.pem
+*.key
+*.sqlite
+*.sqlite3
+*.sqlite-journal
+node_modules/
+vendor/
+.codex/
+.aws/
+.claude/settings.local.json
+
+# Local temporary files and unrelated personal resume output
+/tmp/
+/output/
+*.log
+*.tmp
+*.temp
+Thumbs.db
+.DS_Store
